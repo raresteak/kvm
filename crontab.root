@@ -1,0 +1,4 @@
+# Root's crontab
+# Reclaim ram from cache
+# http://www.linux-admins.net/2010/09/drop-caches.html
+0  *  *  *  * /bin/sync; /sbin/sysctl -w vm.drop_caches=3
