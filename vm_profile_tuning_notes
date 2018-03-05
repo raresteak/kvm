@@ -1,0 +1,4 @@
+1. Copy cpu config
+2. Remove unneeded services, e.g. tablet, sound, serial
+3. Use virtio drivers
+4. Disk tuning disk Cache: writeback
