@@ -1,2 +1,2 @@
 # kvm
-My lab kvm tuning 
+Tuning kvm for a small machine.
